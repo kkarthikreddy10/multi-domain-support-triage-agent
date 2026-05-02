@@ -1,0 +1,25 @@
+{
+  "visa": [
+    "Refund requests must be processed within 30 days. Escalate all refund disputes over 30 days to the Dispute Team.",
+    "Any mention of unauthorized transactions, stolen cards, or fraudulent charges must be escalated to the Security Team immediately.",
+    "Address changes can be done via the online portal. Reply directly with a link to the portal."
+  ],
+  "hackerrank": [
+    "Assessments require strict proctoring. If a camera fails, escalate to the Proctoring Team.",
+    "Login issues with 'Invalid Credentials' are user error. Reply directly guiding them to the 'Forgot Password' link.",
+    "Feature requests (e.g., dark mode) should be acknowledged politely and escalated to the Product Team.",
+    "HackerRank supports C++20 for all assessments.",
+    "Plagiarism flags must be escalated to the Academic Integrity Team for manual review."
+  ],
+  "claude": [
+    "The maximum context window for Claude 3.5 Sonnet is 200,000 tokens.",
+    "For API key access, reply directly with a link to the Anthropic Developer Console.",
+    "Model hallucinations or incorrect logic output should be escalated to the AI Quality Assurance team.",
+    "AI Safety concerns or harmful outputs must be escalated immediately to the Trust and Safety Team.",
+    "Rate Limiting (429 errors) on free tiers is normal. Reply explaining the limits."
+  ],
+  "general_and_out_of_scope": [
+    "If the query is completely unrelated to our products (e.g., spam, generic life questions, unsupported claims), reply directly stating that the issue is 'Out of Scope' and cannot be processed.",
+    "Do NOT escalate out-of-scope issues or spam. Reply directly to close the ticket."
+  ]
+}
